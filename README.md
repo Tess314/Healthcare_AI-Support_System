@@ -16,5 +16,8 @@ Google Colab
 ----------
 How to run
 ----------
-1. Run SkinLesionClassificationModelTraining.ipynb
-2. Run classify.py on Rasperry Pi
+1. Open SkinLesionClassificationModelTraining.ipynb in Colab
+2. Upload data.zip to Colab
+3. Run SkinLesionClassificationModelTraining.ipynb to create model weights
+4. Offload exported model weights (skin_lesion_classifier.tflite) to Raspberry Pi
+5. Run classify.py on Rasperry Pi
