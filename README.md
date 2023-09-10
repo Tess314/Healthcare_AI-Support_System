@@ -4,8 +4,8 @@ Classify medical images using a Raspberry Pi
 ---------
 File list
 ---------
-data.zip
-SkinLesionClassificationModelTraining.ipynb
+data.zip </br>
+SkinLesionClassificationModelTraining.ipynb </br>
 classify.py
 
 ----------------------------
