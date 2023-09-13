@@ -50,14 +50,14 @@ def run(model: str, max_results: int, score_threshold: float, camera_id: int,
   row_size = 50  # pixels
   left_margin = 24  # pixels
   text_color = (0, 0, 0)  # black
-  font_size = 1
+  font_size = 0.75 # was originally 1
   font_thickness = 1
   fps_avg_frame_count = 10
 
   # Label box parameters
   label_text_color = (0, 0, 0)  # red
   label_background_color = (255, 255, 255)  # white
-  label_font_size = 1
+  label_font_size = 0.75 # was originally 1
   label_thickness = 2
   label_width = 50  # pixels
   label_rect_size = 16  # pixels
