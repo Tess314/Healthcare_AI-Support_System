@@ -1,5 +1,5 @@
 # Healthcare_AI-Support_System
-Classify medical images using a Raspberry Pi
+Classify visually detectable diseases using a Raspberry Pi
 
 ---------
 File list
