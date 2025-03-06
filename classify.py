@@ -55,7 +55,7 @@ def run(model: str, max_results: int, score_threshold: float, camera_id: int,
   fps_avg_frame_count = 10
 
   # Label box parameters
-  label_text_color = (0, 0, 0)  # red
+  label_text_color = (0, 0, 0)  # black
   label_background_color = (255, 255, 255)  # white
   label_font_size = 0.75 # was originally 1
   label_thickness = 2
